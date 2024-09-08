@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ajaz/Downloads/_Me/AppliedAICourse/Machine_Learning_Online_Course/HandsOn/deployment/MLOps/app/mlflow/mlruns/0/b53b118c53cc47b48fc7fbfb487e921f/artifacts
+end_time: 1725762273614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b53b118c53cc47b48fc7fbfb487e921f
+run_name: magnificent-dog-617
+run_uuid: b53b118c53cc47b48fc7fbfb487e921f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725762265059
+status: 3
+tags: []
+user_id: ajaz
